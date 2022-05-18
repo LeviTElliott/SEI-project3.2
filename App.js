@@ -22,5 +22,4 @@ const App = () => {
     );
   
 }
-//"us", "Dalaran", "SpittinRage"
 export default App;
