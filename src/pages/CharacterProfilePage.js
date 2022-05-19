@@ -38,5 +38,5 @@ const CharacterProfilePage = props => {
     );
   
   }
-  
+
   export default CharacterProfilePage;

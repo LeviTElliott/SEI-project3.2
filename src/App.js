@@ -5,8 +5,6 @@ import './app.css';
 
 const App = () => {
     const [character, setCharacter] = useState({});
-    
-    
 
     return (
       <div class="medium-container">
